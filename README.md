@@ -16,5 +16,5 @@ conda env create -f environment.yml
 ## 3. Kích hoạt môi trường
 
 ```bash
-conda activate ...
+conda activate DL
 ```
