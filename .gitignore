@@ -35,3 +35,4 @@ mlartifacts/
 # OS
 Thumbs.db
 .DS_Store
+/weights
